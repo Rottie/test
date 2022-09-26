@@ -1,0 +1,16 @@
+.container {
+   display:flex;
+ 
+   padding: 1rem;
+  }
+
+.item{
+    
+    justify-content: space-evenly;
+    
+    
+ 
+}
+.img{
+    flex-direction: row
+}
